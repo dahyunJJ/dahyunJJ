@@ -1,4 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=40&pause=1000&color=3377F7&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+Dahyun's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
+
+반갑습니다:D
+제 이름은 정다현이고 프론트엔드를 공부하고 있어요!
+
 
 <!--
 **dahyunJJ/dahyunJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
