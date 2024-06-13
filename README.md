@@ -1,10 +1,9 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150"/>
-<img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=6C97F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Dahyun's+GitHub!%F0%9F%91%8B"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=6C97F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Dahyun's+GitHub!%F0%9F%91%8B"/> -->
 </div>
 
-<br/>
 <br/>
 <div align="center">
 반갑습니다:D <br/>
@@ -32,23 +31,25 @@
 <br/>
 <span>📌used at least once</span>
    <br/>
-   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />   
-   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />   
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> 
+     
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />   
+  
     
  
   <br/>
   <div align=center>
-    <h3>Tool</h3>
+    <h3>Tool & Library</h3>
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Illustration-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">  <br/ >
+    <img src="https://img.shields.io/badge/Illustration-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" /> <br/ >
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
