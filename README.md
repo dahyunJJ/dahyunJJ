@@ -25,7 +25,7 @@
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"> 
   <img src="https://img.shields.io/badge/redux-764ABC?style=plastic-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescrip-3178C6?style=plastic-square&logo=typescript&logoColor=white" />    
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white" />    
   
   <br/>
   
@@ -48,15 +48,13 @@
   
   <br/>
   
-  <h4>Tools & Libraries</h4>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic-square&logo=adobephotoshop&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Illustration-FF9A00?style=plastic-square&logo=adobeillustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white" /> <br/ >
+  <h4>Tools & Libraries</h4>  
   <img src="https://img.shields.io/badge/git-F05032?style=plastic-square&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=plastic-square&logo=github&logoColor=white"> 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=plastic-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-4A154B?style=plastic-square&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic-square&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white" />
   
   <br/>
   <br/>
