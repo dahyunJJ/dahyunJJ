@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Dahyun&descAlign=75&descAlignY=44"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=76&rotate=13&fontAlignY=25&desc=I'm%20Dahyun&descAlign=82&descAlignY=44"/>
   
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150"/> -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=6C97F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Dahyun's+GitHub!%F0%9F%91%8B"/> -->
