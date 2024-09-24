@@ -53,8 +53,11 @@
   <img src="https://img.shields.io/badge/github-181717?style=plastic-square&logo=github&logoColor=white"> 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=plastic-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-4A154B?style=plastic-square&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=plastic-square&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic-square&logo=Notion&logoColor=white" />  
+  <br/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=plastic-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=plastic-square&logo=dbeaver&logoColor=white" />
   
   <br/>
   <br/>
