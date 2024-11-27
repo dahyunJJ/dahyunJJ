@@ -18,7 +18,7 @@
 
 <div align="center">  
   <h4>Skills - used as the main</h4>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/java-CC0000?style=plastic-square&logo=java&logoColor=white" />    
   <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle-F80000?style=plastic-square&logo=oracle&logoColor=white" />
